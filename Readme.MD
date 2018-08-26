@@ -11,7 +11,7 @@ For build run: `npm run build`
 
 ### Start
 App will be served from http://localhost:3000 by
-`npm run server`
+`npm run server` command.
 Express server will serve index.html from /dist folder 
 with appropriate bundles and assets:
 - main.scss
