@@ -1,0 +1,19 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div, p {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.outer-div {
+  color: crimson;
+}
+
+.inner-div {
+  color: dodgerblue;
+}
